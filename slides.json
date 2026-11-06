@@ -1,0 +1,112 @@
+[
+  {
+    "number": 1,
+    "title": "청년의 가능성이 도시의 미래가 되는 천안",
+    "category": "INTRO",
+    "tagline": "성장 · 자립 · 정착 · 참여",
+    "description": "2026 천안시 청년정책 브리핑. 정책자료 기준일 2026.11.06.",
+    "sources": [],
+    "image": "assets/slides/01.webp"
+  },
+  {
+    "number": 2,
+    "title": "천안 시민 10명 중 약 3명은 청년",
+    "category": "THE YOUTH CITY",
+    "tagline": "19만 7,572명 · 29.9%",
+    "description": "2025년 5월 31일 기준 만 18~39세 청년인구 197,572명. 전국 26.1%, 충남 23.7%, 전국보다 3.8%p 높음. 외국인 제외.",
+    "sources": [
+      "https://v.daum.net/v/20260102152949006"
+    ],
+    "image": "assets/slides/02.webp"
+  },
+  {
+    "number": 3,
+    "title": "2026년, 청년정책의 실행 규모",
+    "category": "POLICY SNAPSHOT",
+    "tagline": "951억 원 · 80개 · 5대 분야",
+    "description": "2026년 계획 예산 951억 원. 추진계획 80개 청년정책 사업. 일자리, 교육, 주거, 복지문화, 참여권리. 2026년 2월 20일 시행계획 확정. 계획 수치이며 집행·성과 실적 아님.",
+    "sources": [
+      "https://news.tf.co.kr/read/national/2294431.htm"
+    ],
+    "image": "assets/slides/03.webp"
+  },
+  {
+    "number": 4,
+    "title": "예산은 어디에 집중되었나?",
+    "category": "RESOURCE MIX",
+    "tagline": "2025년 분야별 예산 · 총 937억 원",
+    "description": "2025년 확정 시행계획: 주거 415억, 복지문화 293억, 일자리 114억, 교육 59억, 참여권리 56억 원. 2026년 분야별 세부 예산 검증된 공개자료 미확보. 집행 실적 아님.",
+    "sources": [
+      "https://www.yna.co.kr/view/AKR20250211036900063"
+    ],
+    "image": "assets/slides/04.webp"
+  },
+  {
+    "number": 5,
+    "title": "취업에서 창업까지, 성장의 경로를 넓히다",
+    "category": "OPPORTUNITY",
+    "tagline": "진로 → 취업 → 창업 → 미래인재",
+    "description": "청년도전지원사업: 구직의욕 회복·취업 준비. 대학일자리플러스센터: 진로·취업 연계 지원. 그린스타트업타운: 창업 생태계 활성화. RISE·스마트팜: 지역대학·산업 연결.",
+    "sources": [
+      "https://news.tf.co.kr/read/national/2294431.htm"
+    ],
+    "image": "assets/slides/05.webp"
+  },
+  {
+    "number": 6,
+    "title": "살 곳의 안정이, 머물 이유가 된다",
+    "category": "LIVING FOUNDATION",
+    "tagline": "주거 지원과 지역 정착",
+    "description": "천안신부·천안쌍용 행복주택, 청년 월세 지원, 주거급여 지원. 공공주택 공급, 비용 경감, 안정적 지역 정착의 순서로 설명. 실제 공급·수혜 실적과 구분.",
+    "sources": [
+      "https://news.tf.co.kr/read/national/2294431.htm"
+    ],
+    "image": "assets/slides/06.webp"
+  },
+  {
+    "number": 7,
+    "title": "청년의 일상을 풍요롭게 만드는 정책",
+    "category": "QUALITY OF LIFE",
+    "tagline": "돌봄 · 마음 · 문화 · 공간",
+    "description": "1인 가구·자립준비청년 지원, 청년 마음돌봄, 유니브시티 페스티벌, 대학로 청년문화예술. 삽입 이미지는 제공 GIF에서 추출한 장면이며 실제 정책사업 현장 사진이 아님.",
+    "sources": [
+      "https://news.tf.co.kr/read/national/2294431.htm"
+    ],
+    "image": "assets/slides/07.webp"
+  },
+  {
+    "number": 8,
+    "title": "지원받는 청년에서, 정책을 만드는 청년으로",
+    "category": "CO-CREATION",
+    "tagline": "제안 → 실험 → 연결",
+    "description": "아이디어 공모전, 천안형 청년도전 프로젝트, 청년 참여·권리 확대. 2026 청년정책 아이디어 공모전 만 18~39세 청년 대상.",
+    "sources": [
+      "https://news.tf.co.kr/read/national/2294431.htm",
+      "https://m.ctnews.kr/article.php?aid=1781578157451498021"
+    ],
+    "image": "assets/slides/08.webp"
+  },
+  {
+    "number": 9,
+    "title": "숫자로 확인한 변화, 성과 해석은 신중하게",
+    "category": "VERIFIED SIGNALS",
+    "tagline": "순유입 +1,548명 · 계획예산 +14억 원",
+    "description": "청년 전입 49,554명, 전출 48,006명으로 순유입 +1,548명. 2025.5.31. 기준 최근 1년. 계획예산 2025년 937억 원에서 2026년 951억 원. 인구 순유입·예산 변화는 정책의 인과적 성과를 입증하는 지표가 아님.",
+    "sources": [
+      "https://v.daum.net/v/20260102152949006",
+      "https://www.yna.co.kr/view/AKR20250211036900063"
+    ],
+    "image": "assets/slides/09.webp"
+  },
+  {
+    "number": 10,
+    "title": "다음 단계는 “체감 성과”의 설계",
+    "category": "NEXT HORIZON",
+    "tagline": "연결 · 정착 · 측정",
+    "description": "제안: 대학–기업–청년 진로·일자리 경로 통합, 주거·일자리·문화의 생활권 단위 연계, 취업·정주 지속성 추적. 사업별 실집행·수혜·취업·정착률 연계 연차 성과관리체계 구축. 확정된 천안시 정책이 아닌 발표용 제안.",
+    "sources": [
+      "https://news.tf.co.kr/read/national/2294431.htm"
+    ],
+    "image": "assets/slides/10.webp"
+  }
+]
